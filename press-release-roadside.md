@@ -4,7 +4,7 @@ Prepared by Aubrey Moore, May 22, 2021
 
 ## Bimonthly island-wide roadside video surveys indicate that coconut rhinoceros beetle (CRB) damage to coconut palms is increasing on Guam.
 
-![](timeline.svg)
+![](timeline.png)
 
 CRB damage surveys use an innovative method developed by UOG entomologist Dr. Aubrey Moore. High definition roadside images are recorded at a rate of one per second by a smart phone attached to a vehicle. Back in the lab, a computer program developed using an artificial intelligence technique called *deep learning* examines every image, finds all coconut palms, measures CRB damage to each palm, and generates an interactive map which is published on the internet.
 

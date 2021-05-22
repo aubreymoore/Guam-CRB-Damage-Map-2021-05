@@ -1,6 +1,6 @@
 # PRESS RELEASE
 
-Prepared by Aubrey Moore, May 22, 2021
+Prepared by Aubrey Moore, May 23, 2021
 
 ## Bimonthly island-wide roadside image surveys indicate that one in five coconut palms on Guam show signs of attack by coconut rhinoceros beetles (CRB). 
 

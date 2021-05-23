@@ -14,7 +14,7 @@ Prepared by Aubrey Moore, May 23, 2021
 CRB damage surveys on Guam use an innovative method developed by UOG entomologist Dr. Aubrey Moore. High definition digital images are recorded along roadsides of all major routes at a rate of one per second by a smart phone attached to a vehicle. Back in the lab, a computer program developed using an artificial intelligence technique called *deep learning* examines every image, finds all coconut palms, measures CRB damage to each palm, and generates an interactive map which is published on the internet (**Fig. 1**).
 
 
-Moore says the new damage survey method is a big improvement over the standard CRB damage monitoring method which requires visual inspection and assessment of individual palms: “We can now quickly measure damage to tens of thousands of palms instead of a few hundred. This means that our damage estimates are much more precise. The data will be used to measure changes in damage in response to CRB pest control activities.” (**Fig. 2**)
+Moore says the new damage survey method is a big improvement over the standard CRB damage monitoring method which requires visual inspection and assessment of individual palms: “We can now quickly measure damage to tens of thousands of palms instead of a few hundred. This means that our damage estimates are much more precise. The data will be used to measure changes in damage in response to CRB pest control activities.” Since the surveys started in October 2020, the proportion of coconut palms with visible damage from CRB has ranged between 19% and 23% (**Fig. 2**).
 
 Moore’s work on monitoring CRB damage on Guam is supported by grants from the US Department of the Interior – Office of Insular Affairs and the US Forest Service.
 

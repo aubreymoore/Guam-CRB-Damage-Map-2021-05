@@ -6,9 +6,9 @@ A **QGIS project** and **SpatiaLite database** for making the map are stored in 
 
 ## Previous Guam CRB Damage Maps
 
-[Oct 2020](https://aubreymoore.github.io/new-crb-damage-map/)<br>
-[Dec 2020](https://aubreymoore.github.io/Guam-CRB-damage-map-2020-12/webmap/v1/)<br>
-[March 2021](https://github.com/aubreymoore/Guam-CRB-Damage-Map-2021-03)
+[Oct 2020](https://aubreymoore.github.io/new-crb-damage-map/#11/13.4437/144.7861)<br>
+[Dec 2020](https://aubreymoore.github.io/Guam-CRB-damage-map-2020-12/webmap/v1/#11/13.4437/144.7861)<br>
+[March 2021](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-03/#11/13.4437/144.7861)
 
 ## Timeline Plot
 

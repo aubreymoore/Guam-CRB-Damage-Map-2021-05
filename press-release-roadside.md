@@ -1,4 +1,6 @@
 ---
+documentclass: scrartcl
+papersize: letter
 geometry: margin=0.25in
 colorlinks: urlcolor=blue
 ---
@@ -22,18 +24,17 @@ Dr. Aubrey Moore
 Entomologist
 College of Natural and Applied Sciences
 University of Guam
-
 email: aubreymoore@triton.uog.edu
 Cell: 1-671-686-5664
 ```
 
 ![](webmap-screenshot.png)
 
-**Fig. 1** Screen capture of an online interactive map of coconut rhinoceros beetle damage on Guam. <https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-05/webmap>
+**Figure 1** Screen capture of an online interactive map of coconut rhinoceros beetle damage on Guam. <https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-05/webmap>
 
 ![](timeline.png)
 
-**Fig. 2** Changes in CRB damage over time.
+**Figure 2** Changes in CRB damage over time.
 
 <!--- 
 The above ghf markdown can be converted to a PDF file using:
